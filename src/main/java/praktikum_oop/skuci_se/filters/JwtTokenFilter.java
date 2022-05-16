@@ -1,4 +1,4 @@
-import java.io.IOException;
+/* import java.io.IOException;
 
 import javax.servlet.*;
 import javax.servlet.http.*;
@@ -58,6 +58,6 @@ public class JwtTokenFilter extends OncePerRequestFilter {
 
         SecurityContextHolder.getContext().setAuthentication(authentication);
         chain.doFilter(request, response);
-    }
+    } 
 
-}
+} */
